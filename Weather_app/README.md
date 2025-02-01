@@ -13,7 +13,7 @@ It is the web-app build using the vanilla js , html and css that will show the l
 
 ## This project can:
 
--Show the live weather by enering the name of place.
+-Show the live weather by entering the name of place.
 
 **Note:-** You have to replace the api key during your use.
 
