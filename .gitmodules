@@ -1,0 +1,3 @@
+[submodule "weather_app_as_submodule"]
+	path = weather_app_as_submodule
+	url = https://github.com/Kz1232/Weather_app.git
