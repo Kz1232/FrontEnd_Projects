@@ -1,3 +1,6 @@
 [submodule "weather_app_as_submodule"]
 	path = weather_app_as_submodule
 	url = https://github.com/Kz1232/Weather_app.git
+[submodule "Todo_List"]
+	path = Todo_List
+	url = git@github.com:Kz1232/Todo_List.git
